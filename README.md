@@ -1,10 +1,9 @@
 # Pertunia Tshireletso Modise Portfolio
 
-This website was built to display the professional portfolio of Pertunia Tshireletso Modise.
+This website was built to display my professional portfolio.
+It presents selected work in social media management, public relations, content creation, web and digital design, and people solutions. The portfolio also shares my education, professional experience and approach to helping businesses and professionals grow.
 
-It presents selected work in social media management, public relations, content creation, web and digital design, and people solutions. The portfolio also shares Pertunia's education, professional experience and approach to helping businesses and professionals grow.
-
-Pertunia is based in Cape Town and Rustenburg, South Africa.
+I am based in Cape Town and Rustenburg, South Africa.
 
 ## View the portfolio
 
