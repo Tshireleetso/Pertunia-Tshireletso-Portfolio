@@ -14,3 +14,11 @@
   display: flex;
   justify-content: center;
 }
+.hero-photo {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; /* circular crop */
+  background-image: url('images/pertunia.jpg'); /* update path */
+  background-size: cover;
+  background-position: center;
+}
