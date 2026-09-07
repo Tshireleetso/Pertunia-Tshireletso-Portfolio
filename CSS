@@ -1,24 +1,17 @@
 .hero .wrap {
   display: flex;
   align-items: center;        /* vertically centers text with image */
-  justify-content: space-between;
+  justify-content: space-between; /* text left, image right */
 }
 
 .hero-text {
   flex: 1;
-  max-width: 50%;             /* keeps text balanced next to image */
+  max-width: 50%;             /* keeps text balanced */
+  text-align: left;           /* ensures text stays left-aligned */
 }
 
 .hero-photo-wrap {
   flex: 1;
   display: flex;
-  justify-content: center;
-}
-.hero-photo {
-  width: 300px;
-  height: 300px;
-  border-radius: 50%; /* circular crop */
-  background-image: url('images/pertunia.jpg'); /* update path */
-  background-size: cover;
-  background-position: center;
+  justify-content: flex-end;  /* pushes image to the right */
 }
